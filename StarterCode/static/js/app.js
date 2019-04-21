@@ -1,7 +1,7 @@
 // from data.js
 var tableData = data;
 date(tableData);
-// YOUR CODE HERE!
+
 // Get a reference to the table body
 function date(dateData)
 {
